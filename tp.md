@@ -1,3 +1,4 @@
+
                 case QUIT:
                     printf("Quit event received.\n");
                     QuitWindow(&myWindow);
